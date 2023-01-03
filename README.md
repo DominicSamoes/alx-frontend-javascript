@@ -6,6 +6,8 @@
 
 ### [0x01. ES6 Promises Tasks](0x01-ES6_promise)
 
+### [0x02. ES6 classes Tasks](0x02-ES6_classes)
+
 ---
 
 ### Author
