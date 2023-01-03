@@ -8,6 +8,8 @@
 
 ### [0x02. ES6 classes Tasks](0x02-ES6_classes)
 
+### [0x03. ES6 data manipulation](0x03-ES6_data_manipulation)
+
 ---
 
 ### Author
