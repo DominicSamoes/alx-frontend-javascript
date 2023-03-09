@@ -48,10 +48,7 @@ What I learned from the tasks:
 
 ### [10. Vroom](./10-car.js)
 
-### [11. EVCar](./100-evcar.js)
-
-
-
+### [11. EVCar](./100-evcar.js) 
 
 ---
 
